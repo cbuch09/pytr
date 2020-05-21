@@ -1,8 +1,8 @@
 from netmiko import Netmiko
 from datetime import datetime
 
-username = 'pyclass'
-password = '88newclass'
+username = ''
+password = ''
 hostname = 'cisco4.lasthop.io'
 
 device = {
