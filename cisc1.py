@@ -1,21 +1,17 @@
 from netmiko import Netmiko
 
-host = 'nxos1.lasthop.io'
-username = 'pyclass'
-password = '88newclass'
-
 nxos1 = {
     'device_type':'cisco_nxos',
     'host':'nxos1.lasthop.io',
-    'username':'pyclass',
-    'password':'88newclass',
+    'username':'',
+    'password':'',
 }
 
 nxos2 = {
     'device_type':'cisco_nxos',
     'host':'nxos2.lasthop.io',
-    'username':'pyclass',
-    'password':'88newclass',
+    'username':'',
+    'password':'',
 }
 
 ios1 = {
