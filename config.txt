@@ -1,0 +1,10 @@
+vlan 100
+ name TEST_MGMT
+vlan 125
+ name TEST_USER
+vlan 150
+ name TEST_VOICE
+vlan 175
+ name TEST_WIRELESS
+vlan 200
+ name TEST_SERVERS
