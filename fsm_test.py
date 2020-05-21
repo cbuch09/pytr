@@ -1,7 +1,7 @@
 from netmiko import Netmiko
 
-username = 'pyclass'
-password = '88newclass'
+username = ''
+password = ''
 hostname = 'cisco4.lasthop.io'
 
 device = {
