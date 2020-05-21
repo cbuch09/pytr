@@ -17,8 +17,8 @@ nxos2 = {
 ios1 = {
     'device_type':'cisco_ios',
     'host':'cisco3.lasthop.io',
-    'username':'pyclass',
-    'password':'88newclass',
+    'username':'',
+    'password':'',
 }
 
 devices = [nxos1, nxos2]
