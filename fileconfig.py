@@ -1,7 +1,7 @@
 from netmiko import Netmiko
 
-username = 'pyclass'
-password = '88newclass'
+username = ''
+password = ''
 
 nxos1 = {
     'host':'nxos1.lasthop.io',
