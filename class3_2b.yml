@@ -1,4 +1,3 @@
----
 -device_name: cisco3
  host: cisco3.lasthop.io
  username: pyclass
